@@ -1,0 +1,46 @@
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\appsettings.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.exe
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.deps.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.runtimeconfig.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.runtimeconfig.dev.json
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.pdb
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.Views.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.Views.pdb
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.csprojAssemblyReference.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.AssemblyInfoInputs.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.AssemblyInfo.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.csproj.CoreCompileInputs.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.MvcApplicationPartsAssemblyInfo.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.RazorAssemblyInfo.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.RazorAssemblyInfo.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.TagHelpers.input.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.TagHelpers.output.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.RazorCoreGenerate.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.RazorTargetAssemblyInfo.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.RazorTargetAssemblyInfo.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.Views.pdb
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.csproj.CopyComplete
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\staticwebassets\ATV3- PROJETO INTEGRADOR.StaticWebAssets.Manifest.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\staticwebassets\ATV3- PROJETO INTEGRADOR.StaticWebAssets.xml
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.dll
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.pdb
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\ATV3- PROJETO INTEGRADOR.genruntimeconfig.cache
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\login.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Noticias.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\QuemSomos.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Resenhas.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Trailer.cshtml.g.cs
+G:\documentos\escola\SENAC\A VOLTA DOS QUE JA FORAM\PROJETO INTEGRADOR\ATV3- PROJETO INTEGRADOR\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastrar.cshtml.g.cs

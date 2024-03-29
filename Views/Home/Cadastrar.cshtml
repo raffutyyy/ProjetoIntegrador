@@ -1,0 +1,18 @@
+@model usuario;
+<h1>Cadastre-se!</h1>
+
+<form method="POST" asp-action="cadastrar">
+    <p>
+         <p>Nome:</p>
+         <input asp-for="nome">
+
+         <p>email:</p>
+         <input asp-for="email"> 
+
+         <p>Senha:</p>
+         <input asp-for="senha">
+
+            <br> <br>
+         <input type="submit" value="cadastrar">
+    </p>
+</form>

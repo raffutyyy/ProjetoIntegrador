@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "htcOZtkDIJQ5iGgtIOXuA9I60usP31I8VVEaT3C+eMwpmi76xXIj6WX36hWdzPWZ1wlYcaaX/BX1NYLNLDVyJA==",
+  "success": true,
+  "projectFilePath": "G:\\documentos\\escola\\SENAC\\A VOLTA DOS QUE JA FORAM\\PROJETO INTEGRADOR\\ATV3- PROJETO INTEGRADOR\\ATV3- PROJETO INTEGRADOR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raffaela\\.nuget\\packages\\mysqlconnector\\2.2.7\\mysqlconnector.2.2.7.nupkg.sha512",
+    "C:\\Users\\Raffaela\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Raffaela\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Raffaela\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
