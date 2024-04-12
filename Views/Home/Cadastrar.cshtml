@@ -1,18 +1,42 @@
 @model usuario;
-<h1>Cadastre-se!</h1>
 
-<form method="POST" asp-action="cadastrar">
-    <p>
-         <p>Nome:</p>
-         <input asp-for="nome">
 
-         <p>email:</p>
-         <input asp-for="email"> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/estilo.css">
+</head>
 
-         <p>Senha:</p>
-         <input asp-for="senha">
+<body>
 
-            <br> <br>
-         <input type="submit" value="cadastrar">
-    </p>
-</form>
+    <header>
+
+    </header>
+    <main>
+        <div class="baseCad shadow p-3 mb-5 bg-white rounded marginCad text-center">
+            <h1 class="fonteCad">Cadastre-se!</h1>
+
+            <form method="POST" asp-action="cadastrar" onsubmit="return validarFormulario()">
+                <h4 class="formCad ">Nome:</h4>
+                <input asp-for="nome" class="botaoForm rounded" id="nome" onblur="validaNome()" >
+
+               <h4 class="formCad">Email:</h4>
+                <input asp-for="email" class="botaoForm rounded"  id="email" onblur="validaEmail()">
+
+                <h4 class="formCad">Senha:</h4>
+                <input asp-for="senha" class="botaoForm rounded"  id="senha" onblur="validaSenha()">
+
+                <br> <br>
+                <input type="submit" value="cadastrar" class="btn btn-secondary margin">
+                </p>
+            </form>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="~/img/projeto.js"></script>
+</body>

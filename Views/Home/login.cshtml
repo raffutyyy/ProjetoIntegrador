@@ -1,18 +1,41 @@
 @model usuario;
 
-<form method="POST" asp-action="login">
-    <h3>Informe seus dados:</h3>
-    <p>
-        <p>Email:</p>
-        <input asp-for= "email">
-    </p>
-    <p>
-        <p>Senha:</p>
-        <input asp-for= "senha">
-    </p>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/estilo.css">
+</head>
 
-     <p>
-       <input type = "submit" value ="Acessar">
-    </p>
-</form>
-<p id="pMensagem">@ViewBag.Mensagem</p>
+<body>
+
+    <header>
+
+    </header>
+    <main>
+        <div class="baseCad shadow p-3 mb-5 bg-white rounded marginCad text-center">
+            <form method="POST" asp-action="login">
+                <h3 class="fonteCad">Informe seus dados:</h3>
+                <p>
+                <h4 class="formCad">Email:</h4>
+                <input asp-for="email" class="botaoForm rounded" onblur="email()">
+                </p>
+                
+                <h4 class="formCad">Senha:</h4>
+                <input asp-for="senha" class="botaoForm rounded" onblur="senha()">
+                </p>
+
+                <p>
+                    <input type="submit" value="Acessar" class="btn btn-secondary margin">
+                </p>
+            </form>
+            <p id="pMensagem"  class="formCad" >@ViewBag.Mensagem</p>
+        </div>
+    </main>
+    <footer>
+
+    </footer>
+    <script src="projeto.js"></script>
+</body>

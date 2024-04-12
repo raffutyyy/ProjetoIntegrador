@@ -41,7 +41,7 @@ namespace ATV3__PROJETO_INTEGRADOR
                 HttpContext.Session.SetString("nome", loginUsuario.nome);
                 HttpContext.Session.SetString("email", loginUsuario.email);
                 HttpContext.Session.SetString("senha", loginUsuario.senha);
-
+            
                 return View();
             }
 

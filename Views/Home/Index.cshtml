@@ -11,44 +11,61 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="/wwwroot/css/estilo.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/css/estilo.css">
     <title>Luz, câmera, opinião</title>
 </head>
 
 <body>
 
     <header>
-        
+
     </header>
     <main>
+        <div class="slideshow-container">
+            <div class="myslides">
+                <img src="~/img/barbie.png" style="width:  1308px; height: 350px;">
+            </div>
+            <div class="myslides">
+                <img src="~/img/wish4.png" style="width:  1308px; height: 350px;">
+            </div>
+            <div class="myslides">
+                <img src="https://mises.org.br/arquivo/5592/oppenheimer-1200.jpg"
+                    style="width:  1308px; height: 350px;">
+            </div>
+            <a class="prev" onclick="plusSlides(-1)">&#10094</a>
+            <a class="next" onclick="plusSlides(1)">&#10095</a>
+        </div>
+        <div class="dot-container">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+        </div>
 
-        <img src="https://assets-global.website-files.com/60ff690cd7b0537edb99a29a/64c43980fa30f0466ca89950_barbie-p-1080.jpg"
-            width="1080" height="400">
+        <h2 class="fonte2 marginT">Entre na magia do cinema conosco - sua jornada por resenhas autênticas e <br>
+            análises cativantes começa aqui!</h2>
+        <div class="shadow p-3 mb-5 margin" id="Caixa">
+            <h3 class="fonteDesc">Destaques da semana:</h3>
+            <p class="fonte margin">Filme "Barbie", lançado em 2023 e estrelado por Margot Robbie, Ryan Gosling, Simu
+                Liu, America Ferrera e Will Ferrell, foi um grande sucesso de bilheteria, arrecadando mais de US$1,4
+                bilhão globalmente, mas não escapou de críticas relacionadas ao seu discurso feminista considerado raso
+                por alguns espectadores....</p>
+            <a href="/Home/Noticias"><button type="button" class="btn btn-secondary margin">Saiba mais</button></a>
+            <br><br>
+            <p class="fonte margin">"Wish: O Poder dos Desejos" é um filme desenvolvido para celebrar o centenário da
+                Disney, ambientado em Rosas, um lugar mágico governado pelo Rei Magnífico. A protagonista, Asha, aspira
+                a se tornar aprendiz do feiticeiro para realizar o sonho de seu avô....</p>
+            <a href="/Home/Noticias"><button type="button" class="btn btn-secondary margin">Saiba mais</button></a>
+        </div>
 
-        <h4>"Entre na magia do cinema conosco - sua jornada por resenhas autênticas e análises cativantes começa aqui!
-        </h4>
-        <br><br>
-        <h2>Destaques da semana:</h2>
-        <p> filme "Barbie", lançado em 2023 e estrelado por Margot Robbie, Ryan Gosling, Simu Liu, America Ferrera e
-            Will
-            Ferrell, foi um grande sucesso de bilheteria, arrecadando mais de US$1,4 bilhão globalmente, mas não escapou
-            de
-            críticas relacionadas ao seu discurso feminista considerado raso por alguns espectadores....</p>
-        <a href="/Home/Noticias"><button>Saiba Mais</button></a>
-
-        <br><br>
-
-        <p>"Wish: O Poder dos Desejos" é um filme desenvolvido para celebrar o centenário da Disney, ambientado em
-            Rosas, um
-            lugar mágico governado pelo Rei Magnífico. A protagonista, Asha, aspira a se tornar aprendiz do feiticeiro
-            para
-            realizar o sonho de seu avô....</p>
-        <a href="/Home/Noticias"><button>Saiba Mais</button></a>
     </main>
 
     <footer>
 
     </footer>
+
+    <script src="~/img/projeto.js"></script>
 </body>
 
 

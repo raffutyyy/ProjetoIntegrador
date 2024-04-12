@@ -5,7 +5,7 @@ namespace ATV3__PROJETO_INTEGRADOR.Models
 {
     public class usuarioRepository
     {
-        private const string DadosConexao = "Database = projetointegrador ; Data Source = localhost; User Id=root";
+        private const string DadosConexao = "Database = projetointegrador; Data Source = localhost; User Id=root";
 
         public void testeConexao()
         {
